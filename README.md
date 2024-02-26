@@ -28,6 +28,10 @@ A Comprehensive Survey](https://arxiv.org/pdf/2108.11510.pdf)
 
 ### Books
 
+### Courses
+
+- [CMU Multimodal Machine Learning course](https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW)
+
 ### Blogs
 
 
