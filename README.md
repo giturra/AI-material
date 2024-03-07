@@ -43,7 +43,9 @@ A Comprehensive Survey](https://arxiv.org/pdf/2108.11510.pdf)
 - [A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289)
 - [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/abs/2308.07107)
 
-### Books
+### Papers
+
+- [Grounding Language Models for Visual Entity Recognition](https://arxiv.org/abs/2402.18695)
 
 ### Blogs
 
